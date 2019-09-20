@@ -1,0 +1,9 @@
+#https://catalogue.data.gov.bc.ca/dataset/bc-species-and-ecosystems-historical-conservation-status-information/resource/39aa3eb8-da10-49c5-8230-a3b5fd0006a9
+# Open Government Licence - British Columbia
+
+Data came from https://catalogue.data.gov.bc.ca
+# I have tried to answer the following questions;
+# 1. Which classes of plants are endangered?
+# 2. How the percentages are different among years and classes?
+
+# Data were analyzed using python
